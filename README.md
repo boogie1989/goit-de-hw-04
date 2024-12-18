@@ -1,5 +1,4 @@
 
-Below is a revised and more polished description for each screenshot. The focus is on clarity, correctness, and providing a coherent explanation of the differences observed between the scenarios.
 
 ---
 
